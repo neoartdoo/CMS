@@ -12,6 +12,7 @@ $arrLangue = array(
     'tu' => 'Türk',
     'po' => 'Português',
     'su' => 'Svenska',
+    'sr' => 'Serbian',
     'it' => 'Italiano',
     'it' => 'Italiano',
     'sk' => 'Slovenčina',
